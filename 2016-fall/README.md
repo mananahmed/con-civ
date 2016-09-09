@@ -1,11 +1,12 @@
-# Contemporary Civilization 1101.15   
-Fall 2014 | Columbia University  
+# Contemporary Civilization 1101.26   
+Fall 2016 | Columbia University  
 Dennis Tenen, Philosophy Hall 408e  
 
-*When?* Mon & Wed, 2:10-4pm  
-*Where?* Hamilton Hall, 301  
+*When?* Mon & Wed, 4:10-6pm  
+*Where?* Hamilton Hall, 551  
 
 ## Description
+
 “Founded in 1919 as a course on War and Peace Issues, the central purpose of
 Contemporary Civilization is to introduce students to a range of issues
 concerning the kinds of communities – political, social, moral, and religious
@@ -17,15 +18,16 @@ historical influence, the presentation of ideas of enduring importance, and
 the demonstrated ability of a text to provoke productive discussion.”
 
 ## Course Requirements and Grading
+
 * 50% Particpation ([Forum
 posts](https://github.com/denten-courses/teaching-concepts/blob/master/forum-posts.md),
 [Community
 moderation](https://github.com/denten-courses/teaching-concepts/blob/master/community-moderation.md),
 Classroom Participation)
-* 25% Midterm
-* 25% Final
+* 25% Midterm 25% Final
 
 ## Course Concepts
+
 * [Academic
 Integrity](https://github.com/denten-courses/teaching-concepts/blob/master/academic-integrity.md)
 * [Active Laptop
@@ -42,23 +44,26 @@ Walk](https://github.com/denten-courses/teaching-concepts/blob/master/philosophe
 Reading](https://github.com/denten-courses/teaching-concepts/blob/master/slow-reading.md)
 
 ## Links & Resources
+
 * All readings not in the standard Core Box will be linked from this document
 directly.
-* [Class forum](https://piazza.com/class/hzlqne7c3xz173). We will use Piazza
+* [Class forum](https://piazza.com/class/istab390ivp6im). We will use Piazza
 for our weekly forum.
 * [Columbia
-Courseworks](https://courseworks.columbia.edu/portal/site/COCIC1101_015_2014_3).
+Courseworks](https://courseworks.columbia.edu/portal/site/COCIC1101_026_2016_3).
 Used mostly for course evaluation.
 * Grades will be linked here.
 
 ## Provisional Schedule
 ### Week 0: Introductions
+
 Reading schedule. Course tour. Learning philosophy.
 
 ### Week 1: Plato, Republic I
 ### Week 2: Republic II 
 ### Week 3: Aristotle's Politics 
 ### Week 4: Hebrew Bible, New Testament
+
 - Exodus 1-24
 - Deuteronomy 1-6
 - Judges 4-10
@@ -68,6 +73,7 @@ Reading schedule. Course tour. Learning philosophy.
 - Galatians
     
 ### Week 5: Stoics and Epicurians
+
 - Epicurus, “[Letter to
 Herodotus](https://drive.google.com/file/d/0B4OAOue0b3VMdXBFY3dRbnlJUWM/view?usp=sharing)”
 - Seneca, *[On the Shortness of
