@@ -80,7 +80,7 @@ Herodotus](https://drive.google.com/file/d/0B4OAOue0b3VMdXBFY3dRbnlJUWM/view?usp
 Life](http://www.forumromanum.org/literature/seneca_younger/brev_e.html)*
 
 ### Week 6: Readings from Qur'an and Classic Chinese Philosophy
-- Monday Midterm !!!
+
 - Al-Qur'an (Suras 1, 4, 2, 12, 112, 114)
 - Confucius,
 [Analects](https://drive.google.com/file/d/0B4OAOue0b3VMX3FzN013dTNXYjg/view?usp=sharing)
