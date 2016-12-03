@@ -120,20 +120,15 @@ Kingship](https://drive.google.com/file/d/0B4OAOue0b3VMYUpkVUZZNmR1OTQ/view?usp=
 - Discourses I:1-10, 16-18; III:1-2, 7-9, 28-30 (chapters, not page numbers)
 
 ### Week 10: Protestant Reformation 
-- Protestant Reformation, pp. 31-93 
+- Martin Luther, in *The Protestant Reformation*, pp. 31-93.
 
-### Week 11: Descartes, Conway
-- Rene Descartes, [Meditatations on First
-Philosophy](https://www.marxists.org/reference/archive/descartes/1639/meditations.htm)
+### Week 11: Scientific Method
+- Rene Descartes, [Discourse on the Method of Rightly Conducting the Reason, and seeking Truth in the Sciences](https://www.marxists.org/reference/archive/descartes/1635/discourse-method.htm)
 (1639).
-- Anne Conway, [The Principles of the Most Ancient and Modern
-Philosophy](http://www.earlymoderntexts.com/authors/conway.html) (1690).
+- Francis Bacon, [Novum Organum](http://oll.libertyfund.org/titles/bacon-novum-organum)
 
-### Week 12: Bacon
-- Francis Bacon, [The New
-Atlantis](https://www.marxists.org/reference/archive/bacon/1626/new-atlantis/index.htm)
-- Bacon, [Natural
-History](https://www.marxists.org/reference/archive/bacon/1607/natural-history/preface.htm)
+### Week 12: Leibniz, Conway, Spinoza
 
-### Week 13: Hobbes
-Selections.
+- Anne Conway, [The Principles of the Most Ancient and Modern Philosophy](http://www.earlymoderntexts.com/assets/pdfs/conway1692_1.pdf).
+- Leibniz, [Mondadology](http://www.earlymoderntexts.com/assets/pdfs/leibniz1714b.pdf).
+- Spinoza, [The Power of the Intellect, or Human Freedom](http://www.earlymoderntexts.com/assets/pdfs/spinoza1665part5.pdf).
