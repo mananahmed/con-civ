@@ -125,7 +125,7 @@ Kingship](https://drive.google.com/file/d/0B4OAOue0b3VMYUpkVUZZNmR1OTQ/view?usp=
 ### Week 11: Scientific Method
 - Rene Descartes, [Discourse on the Method of Rightly Conducting the Reason, and seeking Truth in the Sciences](https://www.marxists.org/reference/archive/descartes/1635/discourse-method.htm)
 (1639).
-- Francis Bacon, [Novum Organum](http://oll.libertyfund.org/titles/bacon-novum-organum)
+- Francis Bacon, [New Atlantis](http://www.gutenberg.org/files/2434/2434-h/2434-h.htm)
 
 ### Week 12: Leibniz, Conway, Spinoza
 
