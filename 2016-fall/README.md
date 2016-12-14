@@ -100,7 +100,7 @@ Error](https://drive.google.com/file/d/0B4OAOue0b3VMUjZyc2lESTBQME0/view?usp=sha
 V](http://books.google.com/books?id=rvY_AAAAYAAJ&printsec=frontcover&dq=Kitab+al+Khazari&hl=en&sa=X&ei=2IFJVMnuFIHmsASB5IHwDQ&ved=0CB8Q6AEwAA#v=onepage&q=Kitab%20al%20Khazari&f=false)
 in Judah Hallevi's in *Kitab Al Khazari*
 - Julian of Norwich, [Revelations of Divine
-Love](http://site.paracletepress.com/samples/exc-revelationsondivinelovei-20.pdf)  
+Love](https://www.college.columbia.edu/core/conciv/ccreader)  
 
 Rational Wednesday  
 - Averroes (Ibn Tufayl), “[On the Harmony of Religion and
