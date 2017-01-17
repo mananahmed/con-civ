@@ -1,7 +1,6 @@
 ---
 title: Contemporary Civilization
 date: Spring 2017
-university: Columbia University
 instructor: Dennis Tenen
 office: Philosophy Hall 408e
 contact: dt2406@columbia.edu
