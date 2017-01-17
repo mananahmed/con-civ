@@ -36,7 +36,7 @@ context" assignment along with a final exam.
 * 25% [Core Context](#core-context)
 * 25% [Connected Core](#connected-core-online-forum)
 * 25% [Class Participation](#class-participation)
-* 25% Final Exam
+* 25% [Final Exam](#final-exam)
 
 ### Core Context
 
@@ -91,6 +91,11 @@ embodied in our texts. We aim for a critical discussion, one that at the same
 time preserves the multiplicity of voices present in the classroom. Listen as
 much as you speak, be respectful of dissenting voices, enter into a dialogue
 rather than a soliloquy, show empathy, respond, and encourage others to speak.
+
+### Final Exam
+
+The final exam will consist of ~30 passage IDs. It is designed as an objective
+metric that rewards regular engagement with the material.
 
 ## Policies
 
