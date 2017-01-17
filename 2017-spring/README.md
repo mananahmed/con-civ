@@ -33,7 +33,7 @@ The class depends on an engaged readership. To this end, students are expected
 read regularly, discuss the texts in class and online, complete a single "core
 context" assignment along with a final exam.
 
-* 25% Core Context
+* 25% [Core Context](#core-context)
 * 25% Connected Core
 * 25% Class Participation
 * 25% Final Exam
