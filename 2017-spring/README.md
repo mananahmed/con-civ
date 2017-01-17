@@ -11,7 +11,7 @@ location: Hamilton 511
 
 ---
 
-## Description
+## Enlightenment: Reason, Humanism, Violence
 
 > Founded in 1919 as a course on War and Peace Issues, the central purpose of
 > Contemporary Civilization is to introduce students to a range of issues
@@ -24,19 +24,9 @@ location: Hamilton 511
 > enduring importance, and the demonstrated ability of a text to provoke
 > productive discussion.
 
-## Enlightenment: Reason, Humanism, Violence
-
 In the second semester of our course we will explore the rise and the legacy
 of Enlightenment thought, where sustained violence and colonial expansion
 undermines the promise of rational, scientific basis for the human condition.
-
-## Connected Core
-
-As part of an experiment to foster a conversation across the Core, our online
-class discussion will take place in conjunction with Professor Manan Ahmed's
-CC1102-4 section. Nikhil Ramachandran (nr2600) will moderate the forums. We
-will have the opportunity to meet in person in several "town-hall" style
-meetings throughout the semester.
 
 ## Assessment
 
@@ -45,7 +35,7 @@ read regularly, discuss the texts in class and online, complete a single "core
 context" assignment along with a final exam.
 
 * 25% Core Context
-* 25% Online Forum
+* 25% Connected Core
 * 25% Class Participation
 * 25% Final Exam
 
@@ -67,7 +57,15 @@ who can assist you in identifying the appropriate digitized archives of
 contemporary newspapers. This presentation will be posted on Piazza before the
 class begins.
 
-## Online Forum
+## Connected Core (Online Forum)
+
+https://piazza.com/class/iy1tkxzviyq7fe
+
+As part of an experiment to foster a conversation across the Core, our online
+class discussion will take place in conjunction with Professor Manan Ahmed's
+CC1102-4 section. Nikhil Ramachandran (nr2600) will moderate the forums. We
+will have the opportunity to meet in person in several "town-hall" style
+meetings throughout the semester.
 
 Every week (by Wednesday midnight at the latest) we ask that you write a short
 response to the readings ahead, comment on the class proceedings, and engage
