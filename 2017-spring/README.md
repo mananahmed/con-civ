@@ -109,7 +109,7 @@ loud in class).
 
 ### Core Policy on Student Attendance
 
-“Students are expected to attend every session of their Core classes. Students
+> Students are expected to attend every session of their Core classes. Students
 who miss class without instructor permission should expect to have their grade
 lowered. Repeated unexcused absences will result in a failing grade or a
 withdrawal from the class. In the event that a student must miss a class due
