@@ -86,8 +86,6 @@ To get the full points, you will attend every single class, and be an active
 listener to your colleagues, and sometimes, a commenter and facilitator for
 their ideas and sometimes, a speaker of your own thoughts.
 
-## Modalities of Engagement
-
 We expect our discussions--online and in-person--to answer to the ideals
 embodied in our texts. We aim for a critical discussion, one that at the same
 time preserves the multiplicity of voices present in the classroom. Listen as
