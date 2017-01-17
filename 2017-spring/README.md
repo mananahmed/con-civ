@@ -34,8 +34,8 @@ read regularly, discuss the texts in class and online, complete a single "core
 context" assignment along with a final exam.
 
 * 25% [Core Context](#core-context)
-* 25% Connected Core(#connected-core-online-forum)
-* 25% Class Participation(##class-participation)
+* 25% [Connected Core](#connected-core-online-forum)
+* 25% [Class Participation](#class-participation)
 * 25% Final Exam
 
 ### Core Context
