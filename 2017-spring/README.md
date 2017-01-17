@@ -137,7 +137,8 @@ dean’s discipline for further institutional action.
 ## Class Schedule / Reading List
 
 ### Wed, Jan 18
-* Introductions + Break Discussion
+
+* Introductions, course policies, the big picture.
 
 ### Mon, Jan 23
 
@@ -148,7 +149,7 @@ dean’s discipline for further institutional action.
 * John Locke, "Second Treatise of Government" Ch. 1-9
 * John Locke, "The Fundamental Constitutions of Carolina"
 
-!!! First Connected Core Evening Jan 25th
+!!! First Connected Core Evening Jan 25th (Fayerweather, Room 411)
 
 ### Mon, Jan 30
 
