@@ -148,7 +148,7 @@ dean’s discipline for further institutional action.
 * John Locke, "Second Treatise of Government" Ch. 1-9
 * John Locke, "The Fundamental Constitutions of Carolina"
 
-!!! First Core Connect Evening Jan 25th
+!!! First Connected Core Evening Jan 25th
 
 ### Mon, Jan 30
 
@@ -285,7 +285,7 @@ Decline of the Nation-State and the End of the Rights of Man* from
 Manifesto of the 121, 1960) and Gillo Pontecorvo, *The Battle of Algiers*
 (1966)
 
-!!! Second Core Connect Meeting (Time TBA)
+!!! Second Connected Core Meeting (Time TBA)
 
 ### Mon, May 1
 
