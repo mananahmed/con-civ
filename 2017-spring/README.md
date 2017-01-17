@@ -107,7 +107,7 @@ the text; underline key sentences and paragraphs, annotate; write out what
 feels extraordinary, questionable, pleasant, or remarkable (and remark it out
 loud in class).
 
-### Core Policy on Student Attendance
+### Student Attendance
 
 > Students are expected to attend every session of their Core classes. Students
 who miss class without instructor permission should expect to have their grade
@@ -119,7 +119,7 @@ assignments to help make up for lost class participation. Whenever possible
 (in the case of religious holidays, for example), students should provide
 advance notification of absence.
 
-### Plagiarism and Academic Dishonesty Policy
+### Plagiarism and Academic Dishonesty
 
  Columbia College is dedicated to the highest ideals of integrity in academia.
 Therefore, in Literature Humanities and Contemporary Civilization, any
