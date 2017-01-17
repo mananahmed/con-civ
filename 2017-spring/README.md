@@ -66,7 +66,7 @@ CC1102-4 section. Nikhil Ramachandran (nr2600) will moderate the forums. We
 will have the opportunity to meet in person in several "town-hall" style
 meetings throughout the semester.
 
-Every week (by Wednesday midnight at the latest) we ask that you write a short
+Every week (by Tuesday midnight at the latest) we ask that you write a short
 response to the readings ahead, comment on the class proceedings, and engage
 with your peers. A good post will contain a reference to specific passages, a
 specific thought or question, or a meaningful contribution to an ongoing
