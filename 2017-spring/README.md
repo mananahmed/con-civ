@@ -136,11 +136,11 @@ dean’s discipline for further institutional action.
 ### Mon, Jan 30
 
 * Jean-Jacques Rousseau, *Discours sur l'origine et les fondements de
-* l'inégalité parmi les hommes* (Discourse on the Origin and Basis of
-* Inequality Among Men) (1754), pages 45-92, and *Du contrat social ou
-* Principes du droit politique* (Of the Social Contract, Or Principles of
-* Political Right), 1762: Book 1, Chapters 4 and 6; Book 2, Chapter 8; Book 4,
-* Chapter 8 and 9.
+l'inégalité parmi les hommes* (Discourse on the Origin and Basis of
+Inequality Among Men) (1754), pages 45-92, and *Du contrat social ou
+Principes du droit politique* (Of the Social Contract, Or Principles of
+Political Right), 1762: Book 1, Chapters 4 and 6; Book 2, Chapter 8; Book 4,
+Chapter 8 and 9.
 
 ### Wed, Feb 1
 
@@ -155,72 +155,73 @@ dean’s discipline for further institutional action.
 
 ### Wed, Feb 8
 
-* Immanuel Kant, *On Anthropology: Lecture of the Winter Semester 1781-82* (CW
-* file Kant_Anthropology1 and 3)
+* Immanuel Kant, *On Anthropology: Lecture of the Winter Semester 1781-82* and
+"[What Is
+Enlightenment](http://www.columbia.edu/acis/ets/CCREAD/etscc/kant.html)?"
+
 
 ### Mon, Feb 13
 
 * Olympe de Gouges, *Déclaration des droits de la femme et de la citoyenne*
-* (Declaration of Rights of Women and the Female Citizen) (1791) and *Haitian
-* Declaration of Independence* (1804)
+(Declaration of Rights of Women and the Female Citizen) (1791) and *Haitian
+Declaration of Independence* (1804)
 
 ### Wed, Feb 15
 
-* G. W. F. Hegel, *Vorlesungen über die Philosophie der Weltgeschichte*
-* (Lectures on the Philosophy of History) (1821-31): Chapters: Geographic
-* Basis of History, Part I: The Oriental World (China, India, Persia), Part
-* IV: The German World (Mohamatanism, Art and Science as Putting a Period to
-* the Middle Ages, The Éclaircissement and Revolution)
+* G. W. F. Hegel, *Vorlesungen über die Philosophie der Weltgeschichte* (Lectures on the Philosophy of History) (1821-31): Chapters: Geographic
+Basis of History, Part I: The Oriental World (China, India, Persia), Part
+IV: The German World (Mohamatanism, Art and Science as Putting a Period to
+the Middle Ages, The Éclaircissement and Revolution)
 
 ### Mon, Feb 20
 
 * Thomas Babington Macaulay, *Government of India* (1833) and Jeremy Bentham,
-* *Panopticon; or the Inspection-House: containing the Idea of a New Principle
-* of Construction applicable to any sort of Establishment, in which Persons of
-* any Description are to be kept under Inspection* (1838).
+*Panopticon; or the Inspection-House: containing the Idea of a New Principle
+of Construction applicable to any sort of Establishment, in which Persons of
+any Description are to be kept under Inspection* (1838).
 
 ### Wed, Feb 22
 
 * Alexis de Tocqueville, *De la démocratie en Amérique* (Democracy in America)
-* (1835-40): Vol 1: Chp 3-4; Vol 2: Part 1: Chp 1, 5, 7, 15, 20; Part 2, Chp
-* 12; Part 3: Chp 8, 9, 10, 21; Part 4, Chp: 2, 3, 4
+(1835-40): Vol 1: Chp 3-4; Vol 2: Part 1: Chp 1, 5, 7, 15, 20; Part 2, Chp
+12; Part 3: Chp 8, 9, 10, 21; Part 4, Chp: 2, 3, 4
 
 ### Mon, Feb 27
 
 * Charles Darwin, *Origins of Species*, Chapter III, IV, Letter to Walter
-* Elliot (23 Jan1856) <http://www.darwinproject.ac.uk/entry-1824>, Selections
-* from *The Beagle Diary*
+Elliot (23 Jan1856) <http://www.darwinproject.ac.uk/entry-1824>, Selections
+from *The Beagle Diary*
 
 ### Wed, Mar 1
 
 * John Stewart Mill, The Petition of the East India Company (1858) and *On
-* Liberty* (1859)
+Liberty* (1859)
 
 ### Mon, Mar 6
 
 * Herbert Spencer, Social Organism (1860)
+* Peter Kropotkin, *Mutual Aid*, Chapters 7 & 8 "Mutual Aid Amongst Ourselves"
 
 ### Wed, Mar 8
 
 * Karl Marx, *Das Kapital: Kritik der politischen Ökonomie* (Capital: Critique
-* of Political Economy) (1867): Vol, Part 1: Chapter 1, 2, 3. Part 2: 4, 5, 6.
+of Political Economy) (1867): Vol, Part 1: Chapter 1, 2, 3. Part 2: 4, 5, 6.
 
 ### Mon, Mar 20
 
 * Karl Marx, *Das Kapital: Kritik der politischen Ökonomie* (Capital: Critique
-* of Political Economy) (1867): Chp 25-33 and British Rule in India) and
-* Indian Question
+of Political Economy) (1867): Chp 25-33 and British Rule in India) and Indian Question
 
 ### Wed, Mar 22
 
 * Friedrich Nietzsche, *Zur Genealogie der Moral* (On the Genealogy of
-* Morality) (1887): Preface, First Essay, and "On the Uses and Disadvantages
-* of History for Life"
+Morality) (1887): Preface, First Essay, and "On the Uses and Disadvantages
+of History for Life"
 
 ### Mon, Mar 27
 
 * W. E. B. Du Bois, *The Souls of Black Folk* (1903): Chapter 1, 2, 3, 9, 14
-* and "Souls of White Folk"
+and "Souls of White Folk"
 
 ### Wed, Mar 29
 
@@ -234,16 +235,16 @@ Party and the Trade Union” (1906) and Lenin "Imperialism" (1917)
 ### Wed, Apr 5
 
 * Mohandas K. Gandhi, *Hind Swaraj* (1909): Section 4, 6, 8, 9, 11, 12, 13,
-* 16, 17 and Tolstoy "Letter to a Hindu".
+16, 17 and Leo Tolstoy "Letter to a Hindu".
 
 ### Mon, Apr 10
 
-* Aimé Césaire, *Discours sur le colonialisme* (Discourse on Colonalism)
-* (1950).
+* Aimé Césaire, *Discours sur le colonialisme* (Discourse on Colonalism), 1950.
 
 ### Wed, Apr 12
 
-* Selections from Simone de Beauvoir, *Second Sex* (1949)
+* Simone de Beauvoir, *Second Sex* (1949), "Part One: Destiny" and "Part Four:
+Toward Liberation"
 
 ### Mon, Apr 17
 
@@ -258,18 +259,18 @@ Party and the Trade Union” (1906) and Lenin "Imperialism" (1917)
 ### Mon, Apr 24
 
 * Hannah Arendt, *Race-Thinking Before Racism*, *Race and Bureaucrcy* and *The
-* Decline of the Nation-State and the End of the Rights of Man* from
-* *Imperialism: Part Two of The Origins of Totalitarianism* (1958) 
+Decline of the Nation-State and the End of the Rights of Man* from
+*Imperialism: Part Two of The Origins of Totalitarianism* (1958)
 
 ### Wed, Apr 26
 
 * Declaration on the Right to Insubordination in the War in Algeria* (The
-* Manifesto of the 121, 1960) and Gillo Pontecorvo, *The Battle of Algiers*
-* (1966)
+Manifesto of the 121, 1960) and Gillo Pontecorvo, *The Battle of Algiers*
+(1966)
 
 !!! Second Core Connect Meeting (Time TBA)
 
 ### Mon, May 1
 
 * Foucault, *Surveiller et Punir: Naissance de la prison* (1975), Part 1; Part
-* 3, chp 2, 3; part 4.
+3, chp 2, 3; part 4.
