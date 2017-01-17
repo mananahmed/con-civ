@@ -38,7 +38,7 @@ context" assignment along with a final exam.
 * 25% Class Participation
 * 25% Final Exam
 
-## Core Context
+### Core Context
 
 Every class, one student will deliver a short-presentation (~10 mins) on the
 Text/Author we are reading. The presentation will highlight their biography,
@@ -56,7 +56,7 @@ who can assist you in identifying the appropriate digitized archives of
 contemporary newspapers. This presentation will be posted on Piazza before the
 class begins.
 
-## Connected Core (Online Forum)
+### Connected Core (Online Forum)
 
 https://piazza.com/class/iy1tkxzviyq7fe
 
@@ -80,7 +80,7 @@ debate---a significant aspect of the discussion that you feel needs our
 collective attention or 2) You are returning to the Text/Author and launching
 a new facet of discussion that is important and is not being discussed. 
 
-## Class Participation
+### Class Participation
 
 To get the full points, you will attend every single class, and be an active
 listener to your colleagues, and sometimes, a commenter and facilitator for
