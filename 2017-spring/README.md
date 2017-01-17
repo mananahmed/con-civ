@@ -2,11 +2,12 @@
 title: Contemporary Civilization
 date: Spring 2017
 university: Columbia University
-author: Dennis Tenen
-office: Philosophy Hall 408c
+instructor: Dennis Tenen
+office: Philosophy Hall 408e
 contact: dt2406@columbia.edu
-time: TBA
-location: TBA
+section number: CC1102-26
+time: M&W 4:10-6:00pm
+location: Hamilton 511
 
 ---
 
@@ -23,62 +24,78 @@ location: TBA
 > enduring importance, and the demonstrated ability of a text to provoke
 > productive discussion.
 
+## Enlightenment: Reason, Humanism, Violence
+
+In the second semester of our course we will explore the rise and the legacy
+of Enlightenment thought, where sustained violence and colonial expansion
+undermines the promise of rational, scientific basis for the human condition.
+
+## Connected Core
+
+As part of an experiment to foster a conversation across the Core, our online
+class discussion will take place in conjunction with Professor Manan Ahmed's
+CC1102-4 section. Nikhil Ramachandran (nr2600) will moderate the forums. We
+will have the opportunity to meet in person in several "town-hall" style
+meetings throughout the semester.
+
 ## Assessment
 
-We want to build a community of readers and thinkers in this class---who are
-able to work collectively and collaboratively. setting my assessment
-goals on two paths: firstly, I want to make sure we are doing close-reading of
-the texts, and secondly, I want to ensure that we are critical and engaged
-writers. With those goals, I ask that you do two forms of regular writing in
-the class - short form discussion and research oriented.
+The class depends on an engaged readership. To this end, students are expected
+read regularly, discuss the texts in class and online, complete a single "core
+context" assignment along with a final exam.
 
-* 15 points for Presentation on Text/Author: Every class, one student will
-deliver a short-presentation (~10 mins) on the Text/Author we are reading.
-The presentation will highlight their biography, their intellectual concerns
-and contributions, and some recent assessment of their thought in scholarly
-literature (JSTOR searches limited to past 5 years). This presentation will
-be posted on Piazza before the class begins. 
- 
-* 25 points for Presentations on Context/Time: Every class, one student will
-deliver a short-presentation (~10 mins) on the context for the Text/Author we
-are reading. This context will comprise of at least ten (10) headlines
-selected from newspapers contemporary to the Text/Author. To assemble these
-headlines, you will visit the Subject Specialists at Butler Library
+* 25% Core Context
+* 25% Online Forum
+* 25% Class Participation
+* 25% Final Exam
+
+## Core Context
+
+Every class, one student will deliver a short-presentation (~10 mins) on the
+Text/Author we are reading. The presentation will highlight their biography,
+their intellectual concerns and contributions, and some recent assessment of
+their thought in scholarly literature (JSTOR searches limited to past 5
+years). This presentation will be posted on Piazza before the class begins.
+
+Another student will deliver a short-presentation (~10 mins) on the context
+for the Text/Author we are reading. This context will comprise of at least ten
+(10) headlines selected from newspapers contemporary to the Text/Author. To
+assemble these headlines, you will visit the Subject Specialists at Butler
+Library
 <http://library.columbia.edu/about/policies/collection-development/liaisons.html>,
 who can assist you in identifying the appropriate digitized archives of
 contemporary newspapers. This presentation will be posted on Piazza before the
 class begins.
 
+## Online Forum
 
-30 points for Discussion on Piazza: Each class, After the class, I ask that
-you respond to either the Text/Author or Context/Time posts of your
-colleagues, or the discussion as it unfolded in the class, or to a theme
-within the work. I ask that you keep your discussions under the posts of your
-colleague. I will assess them individually (as posts) as well as collectively
-(as a debate). You may begin a new post if 1) You are making a critical
-intervention in the debate - a significant aspect of the discussion that you
-feel needs our collective attention or 2) You are returning to the Text/Author
-and launching a new facet of discussion that is important and is not being
-discussed. I expect the ideal responses to incorporate textual citation
-(quote/reference), to propel the argument forward, to engage fully with the
-intellectual content of the essay, or the previous comments. However, I expect
-all posts to incorporate awareness of manners of being, modes of address,
-intellectual honesty and empathy towards your colleagues. You should aim to
-average a post per class over the semester.
+Every week (by Wednesday midnight at the latest) we ask that you write a short
+response to the readings ahead, comment on the class proceedings, and engage
+with your peers. A good post will contain a reference to specific passages, a
+specific thought or question, or a meaningful contribution to an ongoing
+discussion.
 
-20 points for two papers: A week after your presentation on Text/Author or
-Context/Time, you will submit a written paper (approx 500 words) on your
-research. For the Text/Author, you will critically discuss the contemporary
-debates on the subject that you un-covered in your examination of JSTOR. For
-the Context/Time, you will do a reading of the headlines you researched. These
-short assignments are opportunities for you to present the work you have done
-and to incorporate as well the discussion with your colleagues in the class
-and outside of the class.
+You should aim to average a post per class over the semester and more if you
+tend to be quiet in class.
 
-10 points for Participation: To get the full points, you will attend every
-single class, and be an active listener to your colleagues, and sometimes, a
-commenter and facilitator for their ideas and sometimes, a speaker of your own
-thoughts.
+You may begin a new post if 1) You are making a critical intervention in the
+debate---a significant aspect of the discussion that you feel needs our
+collective attention or 2) You are returning to the Text/Author and launching
+a new facet of discussion that is important and is not being discussed. 
+
+## Class Participation
+
+To get the full points, you will attend every single class, and be an active
+listener to your colleagues, and sometimes, a commenter and facilitator for
+their ideas and sometimes, a speaker of your own thoughts.
+
+## Modalities of Engagement
+
+We expect our discussions--online and in-person--to answer to the ideals
+embodied in our texts. We aim for a critical discussion, one that at the same
+time preserves the multiplicity of voices present in the classroom. Listen as
+much as you speak, be respectful of dissenting voices, enter into a dialogue
+rather than a soliloquy, show empathy, respond, and encourage others to speak.
 
 ## Policies
 
@@ -95,7 +112,7 @@ the text; underline key sentences and paragraphs, annotate; write out what
 feels extraordinary, questionable, pleasant, or remarkable (and remark it out
 loud in class).
 
-## Please Note the Core Policy on Student Attendance:
+### Core Policy on Student Attendance
 
 “Students are expected to attend every session of their Core classes. Students
 who miss class without instructor permission should expect to have their grade
@@ -107,9 +124,9 @@ assignments to help make up for lost class participation. Whenever possible
 (in the case of religious holidays, for example), students should provide
 advance notification of absence.
 
-## Plagiarism and Academic Dishonesty Policy:
+### Plagiarism and Academic Dishonesty Policy
 
-Columbia College is dedicated to the highest ideals of integrity in academia.
+ Columbia College is dedicated to the highest ideals of integrity in academia.
 Therefore, in Literature Humanities and Contemporary Civilization, any
 instance of academic dishonesty, attempted or actual, will be reported to the
 faculty chair of the course and to the dean of the Core Curriculum, who will
