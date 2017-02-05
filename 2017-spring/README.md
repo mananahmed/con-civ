@@ -184,8 +184,10 @@ Adam Smith)~~
 ### Mon, Feb 13
 
 * Olympe de Gouges, *Déclaration des droits de la femme et de la citoyenne*
-(Declaration of Rights of Women and the Female Citizen) (1791) and *Haitian
-Declaration of Independence* (1804)
+([Declaration of Rights of Women and the Female Citizen][2131] (1791) 
+* [*Haitian Constitution*][2131] (1804)
+
+[2131]: https://www.college.columbia.edu/core/conciv/ccreader
 
 ### Wed, Feb 15
 
