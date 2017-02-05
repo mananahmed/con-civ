@@ -176,9 +176,11 @@ Adam Smith)~~
 
 ### Wed, Feb 8
 
-* Immanuel Kant, *On Anthropology: Lecture of the Winter Semester 1781-82*
-* "[What Is Enlightenment](http://www.columbia.edu/acis/ets/CCREAD/etscc/kant.html)?"
+* Immanuel Kant, [*On Anthropology: Lecture of the Winter Semester 1781-82*][281]
+* "[What Is Enlightenment][282]?"
 
+[281]: https://www.cambridge.org/core/books/lectures-on-anthropology/lecture-of-the-winter-semester-17721773-based-on-the-transcriptions-of-parow-euchel-brauer-hamilton-philippi-collins-and-dohna/A2727F1A0D0AA28C0A6FC68CD92EE196
+[282]: http://www.columbia.edu/acis/ets/CCREAD/etscc/kant.html
 
 ### Mon, Feb 13
 
