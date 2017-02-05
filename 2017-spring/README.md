@@ -163,19 +163,21 @@ Chapter 8 and 9.
 ### Wed, Feb 1
 
 * Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations*
-* (1776): Book 1 (Chapter 1-5), Book 4 (Chapter 7, 8) & Graeber selection (on
-* Adam Smith)
+* (1776): Book 1 (Chapter 1-5), Book 4 (Chapter 7, 8) & ~~Graeber selection (on
+Adam Smith)~~
 
 ### Mon, Feb 6
 
-* Immanuel Kant, *Groundwork of the Metaphysics of Morals* (Preface, First
-* Section), *Of the Different Human Races*
+* Immanuel Kant, [*Groundwork of the Metaphysics of Morals*][261] (Preface & First Section)
+* [*Of the Different Human Races*][262]
+
+[261]: http://www.inp.uw.edu.pl/mdsie/Political_Thought/Kant%20-%20groundwork%20for%20the%20metaphysics%20of%20morals%20with%20essays.pdf
+[262]: http://isites.harvard.edu/fs/docs/icb.topic97823.files/I_/Sept_27/KANT.pdf
 
 ### Wed, Feb 8
 
-* Immanuel Kant, *On Anthropology: Lecture of the Winter Semester 1781-82* and
-"[What Is
-Enlightenment](http://www.columbia.edu/acis/ets/CCREAD/etscc/kant.html)?"
+* Immanuel Kant, *On Anthropology: Lecture of the Winter Semester 1781-82*
+* "[What Is Enlightenment](http://www.columbia.edu/acis/ets/CCREAD/etscc/kant.html)?"
 
 
 ### Mon, Feb 13
