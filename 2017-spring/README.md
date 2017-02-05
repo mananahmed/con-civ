@@ -162,8 +162,7 @@ Chapter 8 and 9.
 
 ### Wed, Feb 1
 
-* Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations*
-* (1776): Book 1 (Chapter 1-5), Book 4 (Chapter 7, 8) & ~~Graeber selection (on
+* Adam Smith, *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776): Book 1 (Chapter 1-5), Book 4 (Chapter 7, 8) & ~~Graeber selection (on
 Adam Smith)~~
 
 ### Mon, Feb 6
