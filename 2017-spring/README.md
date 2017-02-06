@@ -10,7 +10,7 @@ location: Hamilton 511
 
 ---
 
-## Enlightenment: Reason, Humanism, Violence
+## Enlightenment and its Discontents
 
 > Founded in 1919 as a course on War and Peace Issues, the central purpose of
 > Contemporary Civilization is to introduce students to a range of issues
