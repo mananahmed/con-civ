@@ -191,10 +191,10 @@ Adam Smith)~~
 
 ### Wed, Feb 15
 
-* G. W. F. Hegel, *Vorlesungen über die Philosophie der Weltgeschichte* (Lectures on the Philosophy of History) (1821-31): Chapters: Geographic
-Basis of History, Part I: The Oriental World (China, India, Persia), Part
-IV: The German World (Mohamatanism, Art and Science as Putting a Period to
-the Middle Ages, The Éclaircissement and Revolution)
+* G. W. F. Hegel, "[The Idea of History and its
+Realization](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.htm)"
+and "[The Course of World
+History](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.htm)."
 
 ### Mon, Feb 20
 
