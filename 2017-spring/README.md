@@ -209,7 +209,7 @@ TX in class.
 ### Wed, Feb 22
 
 * Alexis de Tocqueville, *De la démocratie en Amérique* (Democracy in America)
-(1835-40): Vol 1: Chp 3-4; Vol 2: Part 1: Chp 1, 5, 7, 15, 20; Part 2, Chp
+(1835-40): Vol 1: Part1: Chp 3-4; Vol 2, Part 1: Chp 1, 5, 7, 15, 20; Volume 2, Part 2, Chp
 12; Part 3: Chp 8, 9, 10, 21; Part 4, Chp: 2, 3, 4
 
 ### Mon, Feb 27
