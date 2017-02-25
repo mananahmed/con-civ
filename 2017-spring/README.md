@@ -225,8 +225,8 @@ Liberty* (1859)
 
 ### Mon, Mar 6
 
-* Herbert Spencer, Social Organism (1860)
-* Peter Kropotkin, *Mutual Aid*, Chapters 7 & 8 "Mutual Aid Amongst Ourselves"
+* Herbert Spencer, [Social Organism](http://www.econlib.org/library/LFBooks/Spencer/spnMvS9.html) (1860)
+* Peter Kropotkin, *Mutual Aid*, Chapters 7 & 8 "[Mutual Aid Amongst Ourselves](https://www.marxists.org/reference/archive/kropotkin-peter/1902/mutual-aid/ch07.htm)"
 
 ### Wed, Mar 8
 
