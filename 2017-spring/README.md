@@ -201,7 +201,7 @@ History](https://www.marxists.org/reference/archive/hegel/works/hi/introduction.
 * ~~Thomas Babington Macaulay, *Government of India* (1833) and Jeremy Bentham,
 *Panopticon; or the Inspection-House: containing the Idea of a New Principle
 of Construction applicable to any sort of Establishment, in which Persons of
-any Description are to be kept under Inspection* (1838).~~
+any Description are to bejj kept under Inspection* (1838).~~
 
 * Catch up on Hegel from last week. Read Self-defense legislation from NY and
 TX in class.
