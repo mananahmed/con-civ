@@ -215,8 +215,8 @@ TX in class.
 ### Mon, Feb 27
 
 * Charles Darwin, *Origins of Species*, Chapter III, IV, Letter to Walter
-Elliot (23 Jan1856) <http://www.darwinproject.ac.uk/entry-1824>, Selections
-from *The Beagle Diary*
+Elliot (23 Jan1856) <http://www.darwinproject.ac.uk/entry-1824>, [Selections
+from *The Beagle Diary*](https://courseworks.columbia.edu/access/content/group/COCIC1102_026_2017_1/Darwin_Beagle_Diary_Selections.pdf)
 
 ### Wed, Mar 1
 
