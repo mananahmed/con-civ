@@ -228,75 +228,67 @@ Liberty* (1859)
 * Herbert Spencer, [Social Organism](http://www.econlib.org/library/LFBooks/Spencer/spnMvS9.html) (1860)
 * Peter Kropotkin, *Mutual Aid*, Chapters 7 & 8 "[Mutual Aid Amongst Ourselves](https://www.marxists.org/reference/archive/kropotkin-peter/1902/mutual-aid/ch07.htm)"
 
+
 ### Wed, Mar 8
 
-* Karl Marx, *Das Kapital: Kritik der politischen Ökonomie* (Capital: Critique
-of Political Economy) (1867): Vol, Part 1: Chapter 1, 2, 3. Part 2: 4, 5, 6.
+* Karl Marx, *Das Kapital: Kritik der politischen Ökonomie* (Capital: Critique of Political Economy) (1867): Vol, Part 1: Chapter 1, 2, 3. Part 2: 4, 5, 6.
 
 ### Mon, Mar 20
 
-* Karl Marx, *Das Kapital: Kritik der politischen Ökonomie* (Capital: Critique
-of Political Economy) (1867): Chp 25-33 and British Rule in India) and Indian Question
+* Karl Marx, *Das Kapital: Kritik der politischen Ökonomie* (Capital: Critique of Political Economy) (1867): Chp 25-33 and British Rule in India and Indian Question (in CW)
+
 
 ### Wed, Mar 22
 
-* Friedrich Nietzsche, *Zur Genealogie der Moral* (On the Genealogy of
-Morality) (1887): Preface, First Essay, and "On the Uses and Disadvantages
-of History for Life"
+* Friedrich Nietzsche, *Zur Genealogie der Moral* (On the Genealogy of Morality) (1887): Preface, First Essay, and "On the Uses and Disadvantages of History for Life"
+
 
 ### Mon, Mar 27
 
 * W. E. B. Du Bois, *The Souls of Black Folk* (1903): Chapter 1, 2, 3, 9, 14
-and "Souls of White Folk"
+
 
 ### Wed, Mar 29
 
-* Tagore "Sunset of the Century" (1899)
+* Du Bois, "Souls of White Folk" and Tagore "Sunset of the Century" (1899)
 
 ### Mon, Apr 3
 
-Rosa Luxemburg, *Massenstreik, Partei und Gewerkschaften* (Mass Strike, The
-Party and the Trade Union” (1906) and Lenin "Imperialism" (1917)
+* Rosa Luxemburg, *Massenstreik, Partei und Gewerkschaften* (Mass Strike, The Party and the Trade Union” (1906) and Letters; Lenin "Imperialism" (1917)
+
 
 ### Wed, Apr 5
 
-* Mohandas K. Gandhi, *Hind Swaraj* (1909): Section 4, 6, 8, 9, 11, 12, 13,
-16, 17 and Leo Tolstoy "Letter to a Hindu".
+* Mohandas K. Gandhi, *Hind Swaraj* (1909): Section 4, 6, 8, 9, 11, 12, 13, 16, 17
 
 ### Mon, Apr 10
 
-* Aimé Césaire, *Discours sur le colonialisme* (Discourse on Colonalism), 1950.
+* Aimé Césaire, *Discours sur le colonialisme* (Discourse on Colonalism) (1950). (in CW)
 
 ### Wed, Apr 12
 
-* Simone de Beauvoir, *Second Sex* (1949), "Part One: Destiny" and "Part Four:
-Toward Liberation"
+* Simone de Beauvoir, *Second Sex* (1949): Introduction, Part 1, chp 3, Part 2, chp 5, and Conclusion (in CW)
 
 ### Mon, Apr 17
 
-* Franz Fanon, *Les Damnés de la Terre* (The Wretched of the Earth): chapter 5
-* (1961) and "Medicine and Colonialism" *A Dying Colonialism*
+* Franz Fanon, *Les Damnés de la Terre* (The Wretched of the Earth): chapter 5 (1961), and Declaration on the Right to Insubordination in the War in Algeria* (The Manifesto of the 121, 1960) (in CW)
+
 
 ### Wed, Apr 19
 
-* Franz Fanon, *Black Skin, White Masks*: Chapter 5, 6, 7 and Fanon, "Algeria
-* Unveiled" *A Dying Colonialism*
+* Fanon, "Algeria Unveiled" and "Medicine and Colonialism" chapters from *A Dying Colonialism* (in CW)
 
 ### Mon, Apr 24
 
-* Hannah Arendt, *Race-Thinking Before Racism*, *Race and Bureaucrcy* and *The
-Decline of the Nation-State and the End of the Rights of Man* from
-*Imperialism: Part Two of The Origins of Totalitarianism* (1958)
+* Hannah Arendt, *Race-Thinking Before Racism*, *Race and Bureaucrcy* and *The Decline of the Nation-State and the End of the Rights of Man* from *Imperialism: Part Two of The Origins of Totalitarianism* (1958)
+
 
 ### Wed, Apr 26
 
-* Declaration on the Right to Insubordination in the War in Algeria* (The
-Manifesto of the 121, 1960) and Gillo Pontecorvo, *The Battle of Algiers*
-(1966)
+* Foucault, *Surveiller et Punir: Naissance de la prison* (1975), Part 1; Part 3, chp 3; part 4, chp 3 (in CW)
 
-!!! Second Connected Core Meeting (Time TBA)
+!!! Second Connected Core meeting, 6pm Fayerweather, Room 411
 
 ### Mon, May 1
 
-* Foucault, *Surveiller et Punir: Naissance de la prison* (1975), Part 1; Part
-3, chp 2, 3; part 4.
+* Adam Smith catch up.
