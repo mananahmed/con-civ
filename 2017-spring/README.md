@@ -221,7 +221,7 @@ from *The Beagle Diary*](https://courseworks.columbia.edu/access/content/group/C
 ### Wed, Mar 1
 
 * John Stewart Mill, *On
-Liberty* (1859) and [The Petition of the East India Company](https://courseworks.columbia.edu/access/content/group/COCIC1102_026_2017_1/Mill_Petition1858.pdf) (1858) 
+Liberty* (1859) and [The Petition of the East India Company](http://oll.libertyfund.org/titles/mill-the-collected-works-of-john-stuart-mill-volume-xxx-writings-on-india) (1858) 
 
 ### Mon, Mar 6
 
