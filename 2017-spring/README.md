@@ -235,7 +235,7 @@ Liberty* (1859) and [The Petition of the East India Company](http://oll.libertyf
 
 ### Mon, Mar 20
 
-* Karl Marx, *Das Kapital: Kritik der politischen Ökonomie* (Capital: Critique of Political Economy) (1867): Chp 25-33 and British Rule in India and Indian Question (in CW)
+* Karl Marx, *Das Kapital: Kritik der politischen Ökonomie* (Capital: Critique of Political Economy) (1867): Chp 25-33 and [British Rule in India and Indian Question](https://www.marxists.org/archive/marx/works/1853/06/25.htm)
 
 
 ### Wed, Mar 22
