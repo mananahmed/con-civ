@@ -250,7 +250,11 @@ Liberty* (1859) and [The Petition of the East India Company](http://oll.libertyf
 
 ### Wed, Mar 29
 
-* Du Bois, "Souls of White Folk" and Tagore "Sunset of the Century" (1899)
+* Du Bois, "[Souls of White Folk][291]" and Tagore "[Sunset of the
+Century][292]" (1899)
+
+[291]: https://www.gutenberg.org/files/15210/15210-h/15210-h.htm#Chapter_I://www.gutenberg.org/files/15210/15210-h/15210-h.htm#Chapter_IIe
+[292]: http://www.online-literature.com/tagore-rabindranath/4623/
 
 ### Mon, Apr 3
 
