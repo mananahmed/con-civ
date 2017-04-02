@@ -258,8 +258,10 @@ Century][292]" (1899)
 
 ### Mon, Apr 3
 
-* Rosa Luxemburg, *Massenstreik, Partei und Gewerkschaften* (Mass Strike, The Party and the Trade Union” (1906) and Letters; Lenin "Imperialism" (1917)
+* Rosa Luxemburg, *Massenstreik, Partei und Gewerkschaften* ([Mass Strike, The Party and the Trade Union][431]” (1906) and [Letters][432]; Lenin "[Imperialism, the Highest Stage of Capitalism](https://www.marxists.org/archive/lenin/works/1916/imp-hsc/)" (1917)
 
+[431]: https://www.marxists.org/archive/luxemburg/1906/mass-strike/
+[432]: https://www.marxists.org/archive/luxemburg/1918/letters.htm
 
 ### Wed, Apr 5
 
