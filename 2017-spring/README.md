@@ -277,24 +277,23 @@ Century][292]" (1899)
 
 ### Mon, Apr 17
 
-* Franz Fanon, *Les Damnés de la Terre* (The Wretched of the Earth): chapter 5 (1961), and Declaration on the Right to Insubordination in the War in Algeria* (The Manifesto of the 121, 1960) (in CW)
+* Franz Fanon, *Les Damnés de la Terre* (The Wretched of the Earth): Prefice, Chapter I, Conclusion
 
 
 ### Wed, Apr 19
 
-* Fanon, "Algeria Unveiled" and "Medicine and Colonialism" chapters from *A Dying Colonialism* (in CW)
+TBD
 
 ### Mon, Apr 24
 
-* Hannah Arendt, *Race-Thinking Before Racism*, *Race and Bureaucrcy* and *The Decline of the Nation-State and the End of the Rights of Man* from *Imperialism: Part Two of The Origins of Totalitarianism* (1958)
-
+TBD
 
 ### Wed, Apr 26
 
-* Foucault, *Surveiller et Punir: Naissance de la prison* (1975), Part 1; Part 3, chp 3; part 4, chp 3 (in CW)
+TBD
 
 !!! Second Connected Core meeting, 6pm Fayerweather, Room 411
 
 ### Mon, May 1
 
-* Adam Smith catch up.
+TBD
