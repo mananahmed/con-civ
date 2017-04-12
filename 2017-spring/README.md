@@ -277,12 +277,11 @@ Century][292]" (1899)
 
 ### Mon, Apr 17
 
-* Franz Fanon, *Les Damnés de la Terre* (The Wretched of the Earth): Prefice, Chapter I, Conclusion
-
+* Selections from *Being and Nothingness* 
 
 ### Wed, Apr 19
 
-TBD
+* Franz Fanon, *Les Damnés de la Terre* (The Wretched of the Earth): Prefice, Chapter I, Conclusion
 
 ### Mon, Apr 24
 
