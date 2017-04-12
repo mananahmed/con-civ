@@ -265,7 +265,7 @@ Century][292]" (1899)
 
 ### Wed, Apr 5
 
-* Mohandas K. Gandhi, *Hind Swaraj* (1909): Section 4, 6, 8, 9, 11, 12, 13, 16, 17
+* ~~Mohandas K. Gandhi, *Hind Swaraj* (1909): Section 4, 6, 8, 9, 11, 12, 13, 16, 17~~
 
 ### Mon, Apr 10
 
