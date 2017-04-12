@@ -291,7 +291,7 @@ Century][292]" (1899)
 
 TBD
 
-* Franz Fanon, *Les Damnés de la Terre* (The Wretched of the Earth): Prefice; Chapter I; Conclusion
+* Franz Fanon, *Les Damnés de la Terre* (The Wretched of the Earth): Preface; Chapter I; Conclusion
 
 !!! Second Connected Core meeting, 6pm Fayerweather, Room 411
 
