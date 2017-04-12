@@ -273,26 +273,28 @@ Century][292]" (1899)
 
 ### Wed, Apr 12
 
-* Simone de Beauvoir, *Second Sex* (1949): Introduction, Part 1, chp 3, Part 2, chp 5, and Conclusion (in CW)
+* Simone de Beauvoir, *Second Sex* (1949): Introduction, Part 1, chp 3, Part 2, chp 5, and Conclusion
 
 ### Mon, Apr 17
 
-* Selections from *Being and Nothingness* 
+* Simone de Beauvoir (cont.), *Second Sex* (1949): Introduction, Part 1: ch. 3, Part 2: ch. 5; **Ch. 14** and Conclusion
 
 ### Wed, Apr 19
 
-* Franz Fanon, *Les Damnés de la Terre* (The Wretched of the Earth): Prefice, Chapter I, Conclusion
+* Selections from Sartre's *Being and Nothingness* 
 
 ### Mon, Apr 24
 
-TBD
+* Heidegger's "The Question Concerning Technology" 
 
 ### Wed, Apr 26
 
 TBD
 
+* Franz Fanon, *Les Damnés de la Terre* (The Wretched of the Earth): Prefice; Chapter I; Conclusion
+
 !!! Second Connected Core meeting, 6pm Fayerweather, Room 411
 
 ### Mon, May 1
 
-TBD
+* Selections from Hannah Arendt's *The Human Condition*
