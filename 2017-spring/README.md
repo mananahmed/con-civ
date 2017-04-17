@@ -281,7 +281,7 @@ Century][292]" (1899)
 
 ### Wed, Apr 19
 
-* Selections from Sartre's *Being and Nothingness* 
+* "Bad Faith" (pp 47-73); from "The Look", (252-273); "Being With" (413-432); and "My Place" (489-496) from Sartre's [*Being and Nothingness*](https://courseworks.columbia.edu/access/content/group/COCIC1102_026_2017_1/sartre-being-nothingness.pdf).
 
 ### Mon, Apr 24
 
