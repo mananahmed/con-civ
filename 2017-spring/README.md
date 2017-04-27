@@ -297,6 +297,6 @@ TBD
 
 ### Mon, May 1
 
-* Hannah Arendt's "[Reflections on Violence][51]" "What is Freedom" (in CW > files).
+* Hannah Arendt's "[Reflections on Violence][51]" and "What is Freedom" (in CW > files).
 
 [51]: http://www.nybooks.com/articles/1969/02/27/a-special-supplement-reflections-on-violence/
