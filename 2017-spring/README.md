@@ -297,4 +297,6 @@ TBD
 
 ### Mon, May 1
 
-* Selections from Hannah Arendt's *The Human Condition*
+* Hannah Arendt's "[Reflections on Violence][51]" "What is Freedom" (in CW > files).
+
+[51]: http://www.nybooks.com/articles/1969/02/27/a-special-supplement-reflections-on-violence/
