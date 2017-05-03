@@ -269,7 +269,7 @@ Century][292]" (1899)
 
 ### Mon, Apr 10
 
-* Aimé Césaire, *Discours sur le colonialisme* (Discourse on Colonalism) (1950). (in CW)
+* Aimé Césaire, *Discours sur le colonialisme* (Discourse on Colonialism) (1950). (in CW)
 
 ### Wed, Apr 12
 
